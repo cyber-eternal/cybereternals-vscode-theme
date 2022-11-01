@@ -1,0 +1,21 @@
+{
+  "name": "cybereternals-vscode-theme",
+  "displayName": "cybereternals-vscode-theme",
+  "description": "VS code theme from CyberEternal",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cybereternals-vscode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cybereternals-vscode-theme-color-theme.json"
+      }
+    ]
+  }
+}
