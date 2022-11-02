@@ -1,13 +1,25 @@
 {
   "name": "cybereternals-vscode-theme",
-  "displayName": "cybereternals-vscode-theme",
+  "displayName": "CyberEternal's vscode theme",
   "description": "VS code theme from CyberEternal",
+  "publisher": "CyberEternal",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyber-eternal/cybereternals-vscode-theme.git"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "best theme",
+    "monokai",
+    "ayu",
+    "darker"
   ],
   "contributes": {
     "themes": [
