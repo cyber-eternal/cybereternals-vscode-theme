@@ -1,7 +1,7 @@
 {
 	"name": "cybereternals-vscode-theme",
 	"colors": {
-		"focusBorder": "#e6b450b3",
+		"focusBorder": "#e5b75a2d",
 		"foreground": "#565b66",
 		"widget.shadow": "#00000080",
 		"selection.background": "#409fff4d",
