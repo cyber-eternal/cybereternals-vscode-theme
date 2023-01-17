@@ -3,7 +3,7 @@
   "displayName": "CyberEternal's vscode theme",
   "description": "VS code theme from CyberEternal",
   "publisher": "CyberEternal",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.72.0"
   },
